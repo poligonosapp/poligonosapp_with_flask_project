@@ -1,6 +1,2 @@
-# poligonosapp-with-django-folium
+# poligonosapp-with-flask-project
 PoligonosApp leaflet plugin Python backend for Angular Progressive Web App  frontend
-
-cd poligonosappsite
-
-python manage.py runserver
